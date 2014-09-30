@@ -1,4 +1,5 @@
-p-values-and-Critical-Values
-============================
+#p-values-and-Critical-Values
 
-Calculates p-values and test statistics for the Z, t, F, and chi-square distributions
+Excel spreadsheet that calculates p-values and test statistics for the Z, t, F, and chi-square distributions
+
+This and other Excel spreadsheets can be found at http://stat-help.com/spreadsheets.html
